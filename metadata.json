@@ -1,0 +1,6 @@
+{
+  "name": "AD Missão Boas Novas",
+  "description": "Portfólio e Feed Social da Assembleia de Deus Missão Boas Novas. Publique testemunhos, fotos de cultos e eventos, e acesse seu perfil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

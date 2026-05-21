@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Radiant Circle Background Emblem in Gold -->
+    <path
+        android:fillColor="#15FFFFFF"
+        android:pathData="M54,14 A40,40 0 1,1 53.9,14 Z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#D4AF37" />
+
+    <!-- Solid Golden Christian Cross -->
+    <!-- Vertical member: center 54, width 12, height 64 (from 22 to 86) -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M48,22 h12 v64 h-12 z" />
+
+    <!-- Horizontal member: width 44 (from 32 to 76), height 12 (from 36 to 48) -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M32,36 h44 v12 h-44 z" />
+        
+</vector>
