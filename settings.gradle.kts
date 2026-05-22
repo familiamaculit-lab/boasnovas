@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "redenova"
+rootProject.name = "My Application"
 
 include(":app")
